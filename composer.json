@@ -1,0 +1,13 @@
+{
+    "name": "fengsong/demo",
+    "description": "This is composer test",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "fengsong",
+            "email": "fengsong206@163.com"
+        }
+    ],
+    "require": {}
+}
